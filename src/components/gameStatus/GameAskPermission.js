@@ -27,8 +27,7 @@ class GameAskPermission extends Component {
         <h1 className="gap-bottom">Mikrofona izin ver</h1>
         <p>
           Oyunu oynayabilmek için tarayıcının mikrofonuna
-          erişmesine izin vermen gerekiyor. Aklına gelen isimleri mikrofona
-          söyleyebilirsin.
+          erişmesine izin vermen gerekiyor.
         </p>
       </div>
     );
