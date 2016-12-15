@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import Game from './Game';
 import Logo from './element/Logo';
+import Copyright from './element/Copyright';
+
 import './App.css';
 
 class App extends Component {
@@ -13,6 +15,7 @@ class App extends Component {
             <Game />
           </div>
         </div>
+        <Copyright />
       </div>
     );
   }

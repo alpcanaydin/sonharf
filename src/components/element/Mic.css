@@ -65,3 +65,9 @@
         transform: scale(1)
     }
 }
+
+@media (max-width: 543px) {
+  .Mic.bottom {
+    bottom: 10%;
+  }
+}
