@@ -1,0 +1,94 @@
+#root,
+.app-container,
+.game-container,
+body,
+html {
+    height: 100%
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: PT Serif, serif;
+    font-size: 28px;
+    line-height: 40px;
+    color: #7c7f83
+}
+.game-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center
+}
+.game-inner {
+    width: 60%
+}
+.gap-bottom-xsmall {
+    margin-bottom: 10px
+}
+.gap-bottom-small {
+    margin-bottom: 20px
+}
+.gap-bottom {
+    margin-bottom: 30px
+}
+.gap-bottom-large {
+    margin-bottom: 40px
+}
+.pad-bottom {
+    padding-bottom: 30px
+}
+.pad-bottom-large {
+    padding-bottom: 40px
+}
+h1 {
+    font-size: 54px;
+    font-weight: 700;
+    color: #3a3d43;
+    line-height: 58px
+}
+.text-primary {
+    color: #2b2d30;
+    letter-spacing: -.5px
+}
+.color-green {
+    color: #75d937
+}
+.btn {
+    font-size: 24px;
+    background: #75d937;
+    color: #fff;
+    font-weight: 700;
+    border: none;
+    font-family: PT Serif, serif;
+    line-height: 24px;
+    padding: 17px 54px;
+    border-radius: 100px
+}
+.btn:focus {
+    outline: none
+}
+.btn:hover {
+    background: #5cc01e;
+    cursor: pointer
+}
+@media (max-width: 543px) {
+    body {
+        font-size: 18px;
+        line-height: 26px
+    }
+    h1 {
+        font-size: 48px
+    }
+    .game-inner {
+        width: 90%
+    }
+}

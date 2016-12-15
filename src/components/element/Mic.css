@@ -1,0 +1,67 @@
+.Mic {
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    background: #d1d3d7;
+    border-radius: 50%;
+    text-align: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+.Mic.bottom {
+    position: absolute;
+    bottom: 5%;
+    margin-left: -22.5px
+}
+.Mic.big {
+    width: 90px;
+    height: 90px
+}
+.Mic.normal {
+    width: 45px;
+    height: 45px
+}
+.Mic.speaking {
+    background: #75d937;
+    -webkit-animation-name: speaking;
+    animation-name: speaking;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite
+}
+@-webkit-keyframes speaking {
+    0% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+    50% {
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2)
+    }
+    to {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+}
+@keyframes speaking {
+    0% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+    50% {
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2)
+    }
+    to {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+}
