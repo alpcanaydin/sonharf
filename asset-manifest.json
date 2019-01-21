@@ -1,8 +1,15 @@
 {
-  "main.css": "static/css/main.67d8cf8a.css",
-  "main.css.map": "static/css/main.67d8cf8a.css.map",
-  "main.js": "static/js/main.005b4105.js",
-  "main.js.map": "static/js/main.005b4105.js.map",
-  "static/media/loading.svg": "static/media/loading.70e9994a.svg",
-  "static/media/microphone.png": "static/media/microphone.983c5f85.png"
+  "main.css": "/static/css/main.3c25b433.chunk.css",
+  "main.js": "/static/js/main.20b42272.chunk.js",
+  "main.js.map": "/static/js/main.20b42272.chunk.js.map",
+  "static/js/1.5ecbd776.chunk.js": "/static/js/1.5ecbd776.chunk.js",
+  "static/js/1.5ecbd776.chunk.js.map": "/static/js/1.5ecbd776.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/loading.svg": "/static/media/loading.70e9994a.svg",
+  "static/media/microphone.png": "/static/media/microphone.983c5f85.png",
+  "static/css/main.3c25b433.chunk.css.map": "/static/css/main.3c25b433.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.6ec357d9748991f381d889fae9fc3a51.js": "/precache-manifest.6ec357d9748991f381d889fae9fc3a51.js",
+  "service-worker.js": "/service-worker.js"
 }
