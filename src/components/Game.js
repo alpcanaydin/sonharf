@@ -29,6 +29,8 @@ class Game extends Component {
       return;
     }
 
+    Recognition.abort();
+
     gameStatusChanged('init');
   }
 

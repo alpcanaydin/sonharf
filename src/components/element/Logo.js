@@ -26,6 +26,7 @@ class Logo extends Component {
       return;
     }
 
+    // eslint-disable-next-line no-restricted-globals
     if (confirm('Oyun baştan başlayacak. Emin misin?')) {
       actions.restartRequested();
     }

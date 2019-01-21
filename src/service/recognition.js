@@ -19,7 +19,6 @@ class Recognition {
       askRecognition.onstart = resolve;
 
       askRecognition.start();
-      askRecognition.abort();
     });
   }
 
