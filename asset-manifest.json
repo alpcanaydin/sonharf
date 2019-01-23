@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.3c25b433.chunk.css",
-  "main.js": "/static/js/main.20b42272.chunk.js",
-  "main.js.map": "/static/js/main.20b42272.chunk.js.map",
-  "static/js/1.5ecbd776.chunk.js": "/static/js/1.5ecbd776.chunk.js",
-  "static/js/1.5ecbd776.chunk.js.map": "/static/js/1.5ecbd776.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/loading.svg": "/static/media/loading.70e9994a.svg",
-  "static/media/microphone.png": "/static/media/microphone.983c5f85.png",
-  "static/css/main.3c25b433.chunk.css.map": "/static/css/main.3c25b433.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.6ec357d9748991f381d889fae9fc3a51.js": "/precache-manifest.6ec357d9748991f381d889fae9fc3a51.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/sonharf/static/css/main.3c25b433.chunk.css",
+  "main.js": "/sonharf/static/js/main.20b42272.chunk.js",
+  "main.js.map": "/sonharf/static/js/main.20b42272.chunk.js.map",
+  "static/js/1.a42595e0.chunk.js": "/sonharf/static/js/1.a42595e0.chunk.js",
+  "static/js/1.a42595e0.chunk.js.map": "/sonharf/static/js/1.a42595e0.chunk.js.map",
+  "runtime~main.js": "/sonharf/static/js/runtime~main.8dac151a.js",
+  "runtime~main.js.map": "/sonharf/static/js/runtime~main.8dac151a.js.map",
+  "static/media/loading.svg": "/sonharf/static/media/loading.70e9994a.svg",
+  "static/media/microphone.png": "/sonharf/static/media/microphone.983c5f85.png",
+  "static/css/main.3c25b433.chunk.css.map": "/sonharf/static/css/main.3c25b433.chunk.css.map",
+  "index.html": "/sonharf/index.html",
+  "precache-manifest.e57b3f62426ce39723eb2239f45d51f0.js": "/sonharf/precache-manifest.e57b3f62426ce39723eb2239f45d51f0.js",
+  "service-worker.js": "/sonharf/service-worker.js"
 }
