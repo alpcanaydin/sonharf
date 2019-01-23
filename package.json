@@ -1,6 +1,7 @@
 {
   "name": "sonharf",
   "version": "0.1.0",
+  "homepage": "https://alpcanaydin.github.io/sonharf",
   "private": true,
   "devDependencies": {
     "gh-pages": "^2.0.1",
